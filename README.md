@@ -10,3 +10,5 @@
  * Open 'cmd' as Administrator
  * Go to folder
  * Execute copy.bat
+ 
+ ## [Video](https://youtu.be/Fp-yaGsFOhc)
